@@ -1,5 +1,5 @@
 === Boissons Only Print Template for BizPrint ===
-Contributors: your_company
+Contributors: Codeon.ch
 Tags: bizprint, woocommerce, print, receipt, beverages
 Requires at least: 5.0
 Tested up to: 6.5
