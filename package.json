@@ -1,0 +1,35 @@
+{
+  "name": "boissons-only-print-template",
+  "version": "1.0.0",
+  "description": "Custom template for printing beverage-focused receipts with BizPrint for WooCommerce",
+  "main": "index.php",
+  "scripts": {
+    "package": "php package.php"
+  },
+  "keywords": [
+    "wordpress",
+    "woocommerce",
+    "bizprint",
+    "print",
+    "receipt",
+    "beverages",
+    "category-filter"
+  ],
+  "author": "Your Company Name",
+  "license": "GPL-2.0-or-later",
+  "homepage": "http://www.yourcompanywebsite.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourcompany/boissons-only-print-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourcompany/boissons-only-print-template/issues"
+  },
+  "engines": {
+    "wordpress": ">=5.0",
+    "woocommerce": ">=2.4.0"
+  },
+  "dependencies": {
+    "bizprint": ">=4.0.1"
+  }
+}
