@@ -72,7 +72,7 @@ table {
 
 h2.caption {
 	width: 90%;
-	display: block;
+	display: block; 
 	margin-left: auto;
 	margin-right: auto;
 	text-align: left;
